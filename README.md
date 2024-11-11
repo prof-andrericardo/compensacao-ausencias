@@ -34,6 +34,13 @@ Cada UC possui sua própria pasta com atividades teóricas e práticas específi
 - Ferramentas: Packet Tracer, Hyper-V
 - [Link para a pasta](./UC8)
 
+### 📂 UC9 - Projeto Integrador
+- Desenvolvimento completo
+- Documentação
+- Apresentação
+- Ferramentas: Todas das UCs anteriores
+- [Link para a pasta](./UC9)
+
 ### 📂 UC10 - Desenvolvimento de Software
 - Lógica de programação
 - JavaScript básico
@@ -62,12 +69,33 @@ Cada UC possui sua própria pasta com atividades teóricas e práticas específi
 - Ferramentas: VSCode
 - [Link para a pasta](./UC15)
 
+### 📂 UC18 - Ética e Direito Digital
+- Legislação digital
+- Privacidade e segurança
+- Cidadania digital
+- Ferramentas: Navegador
+- [Link para a pasta](./UC18)
+
+### 📂 UC19 - Empreendedorismo Tecnológico
+- Modelo de negócios
+- Marketing digital
+- Pitch e apresentação
+- Ferramentas: Navegador
+- [Link para a pasta](./UC19)
+
 ### 📂 UC22 - Ciência de Dados
 - Análise de dados
 - Visualização
 - Interpretação
 - Ferramentas: Excel
 - [Link para a pasta](./UC22)
+
+### 📂 UC23 - Internet das Coisas
+- Fundamentos IoT
+- Automação
+- Projetos práticos
+- Ferramentas: Packet Tracer
+- [Link para a pasta](./UC23)
 
 ## 💻 Como Usar Este Repositório
 
@@ -106,6 +134,7 @@ Cada UC possui sua própria pasta com atividades teóricas e práticas específi
 - Microsoft Excel
 - Navegador moderno
 - Bloco de notas
+- Figma (conta educacional)
 
 ## 📚 Recursos Adicionais
 
