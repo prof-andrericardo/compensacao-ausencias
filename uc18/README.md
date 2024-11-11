@@ -135,5 +135,3 @@ Escolha 2 formatos para desenvolver:
 - Mantenha postura ética nas discussões
 
 Este trabalho foi estruturado para ser relevante e interessante para alunos do 3º ano, usando temas do cotidiano deles e permitindo expressão criativa enquanto aprendem sobre ética e direito digital.
-
-Quer que eu detalhe melhor algum aspecto ou adicione mais exemplos práticos?
