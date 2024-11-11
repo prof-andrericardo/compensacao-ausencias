@@ -11,7 +11,7 @@ Cada UC possui sua própria pasta com atividades teóricas e práticas específi
 - Tipos de redes
 - Protocolos
 - Ferramentas: Cisco Packet Tracer
-- [Link para a pasta](#-uc5---redes-de-computadores)
+- [Link para a pasta](uc5/)
 
 ### 📂 UC6 - Planejamento e Instalação de Redes
 - Infraestrutura de rede
