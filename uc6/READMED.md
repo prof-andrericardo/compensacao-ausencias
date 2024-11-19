@@ -144,6 +144,12 @@ Montar a rede do escritório no Packet Tracer, com todas as áreas importantes!
 - Use sua imaginação
 - Divirta-se criando!
 
-Esta versão está mais adequada para a idade dos alunos, usando referências que eles conhecem (TikTok) e uma linguagem mais informal e amigável. O projeto continua técnico, mas apresentado de forma mais envolvente e menos intimidadora.
+## ✉️ Entrega
 
-Quer que eu ajuste ou detalhe melhor alguma parte?
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

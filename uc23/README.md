@@ -158,6 +158,12 @@ Criar uma simulação de casa inteligente usando Packet Tracer.
 - Documente tudo
 - Teste exaustivamente
 
-Esta atividade foi estruturada para ser interessante e relevante para alunos do 3º ano, combinando teoria atual com prática simulada no Packet Tracer.
+## ✉️ Entrega
 
-Quer que eu detalhe melhor alguma parte ou forneça mais exemplos práticos de configurações no Packet Tracer?
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

@@ -1,5 +1,3 @@
-Vou criar uma proposta divertida e relevante para adolescentes, focando em desenvolvimento web com as tecnologias disponíveis.
-
 **PROJETO: CRIANDO SEU SITE/APP WEB! 🌐**
 
 **PARTE 1 - TEORIA E PLANEJAMENTO (40%)**
@@ -174,4 +172,12 @@ Criar um site/app sobre um destes temas (ou sugira outro!):
 - Use o Google com sabedoria
 - Peça ajuda aos colegas
 
-Quer que eu detalhe melhor alguma parte ou dê exemplos mais específicos de código? Posso criar modelos básicos para cada tipo de projeto sugerido!
+## ✉️ Entrega
+
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

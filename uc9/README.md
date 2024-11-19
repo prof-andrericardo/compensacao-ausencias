@@ -136,4 +136,13 @@ Email: [Endereço]
 
 ---
 
-⚠️ **Observação**: Este projeto integrador deve demonstrar as competências adquiridas ao longo do curso, com foco em criar uma solução completa e funcional.
+## ✉️ Entrega
+
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.
+

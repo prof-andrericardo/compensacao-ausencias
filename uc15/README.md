@@ -1,5 +1,3 @@
-Vou criar uma proposta de atividade compensatória focada em Design Web que seja envolvente e relevante para alunos de 17-18 anos.
-
 **PROJETO: REDESIGN DE UMA REDE SOCIAL! 🎨**
 
 **PARTE 1 - TEORIA DO DESIGN (40%)**
@@ -22,8 +20,6 @@ Criar uma apresentação sobre:
    - Responsividade
    Mostre exemplos reais!
 ```
-
-
 
 # 🎨 PROJETO PRÁTICO: REDESIGN DE INTERFACE (60%)
 
@@ -205,6 +201,12 @@ const handleLike = (postId) => {
 - Código limpo (20%)
 - Criatividade (20%)
 
-Esta proposta combina teoria e prática do design web moderno, usando referências familiares aos alunos (redes sociais) e focando em tecnologias atuais. O projeto permite criatividade enquanto ensina princípios importantes de design.
+## ✉️ Entrega
 
-Quer que eu detalhe melhor alguma parte ou forneça mais exemplos específicos?
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

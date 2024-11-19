@@ -118,6 +118,12 @@ Parabéns! Você foi escolhido(a) para criar a rede de uma escola de tecnologia.
 - Use sua criatividade
 - Divirta-se aprendendo!
 
-A atividade foi pensada para ser desafiadora, mas realizável, permitindo que você demonstre seu conhecimento de forma prática e criativa. 
+## ✉️ Entrega
 
-Quer que eu explique melhor alguma parte ou dê mais exemplos?
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

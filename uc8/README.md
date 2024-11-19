@@ -1,5 +1,3 @@
-Vou reformular a atividade em uma linguagem ainda mais acessível e contextualizada para adolescentes, usando referências do universo deles.
-
 **MISSÃO ESPECIAL: PROTEJA O MUNDO DIGITAL! 🦸‍♂️**
 
 Olá, futuro(a) guardião(ã) do mundo digital!
@@ -150,6 +148,12 @@ O maior campeonato de e-sports do Brasil precisa da sua ajuda para ficar seguro!
 3. Use nomes legais nos servidores
 4. Crie um tema para seu projeto
 
-Esta versão usa elementos de jogos, e-sports e super-heróis para tornar o conteúdo mais envolvente, mantendo o aprendizado técnico necessário mas apresentado de forma mais divertida e menos intimidadora.
+## ✉️ Entrega
 
-Quer que eu ajuste ou detalhe melhor alguma parte?
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

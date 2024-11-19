@@ -22,8 +22,6 @@ Criar uma apresentação explicando:
    Use exemplos reais!
 ```
 
-
-
 # 📊 PROJETO PRÁTICO: ANÁLISE DE DADOS (60%)
 
 ## Escolha sua Área de Análise
@@ -184,6 +182,12 @@ Criar uma apresentação explicando:
 - Visualizações (30%)
 - Conclusões (20%)
 
-Esta proposta usa temas familiares aos alunos (música, filmes, games) para ensinar conceitos de análise de dados de forma prática e envolvente, utilizando o Excel como ferramenta principal.
+## ✉️ Entrega
 
-Quer que eu detalhe melhor alguma parte ou forneça exemplos específicos de análises ou fórmulas?
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

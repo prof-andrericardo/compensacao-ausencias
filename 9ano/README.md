@@ -136,3 +136,6 @@ A Atividade deve ser entregue aos cuidados de;
 
 - Professor: André Ricardo
 - Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

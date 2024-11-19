@@ -161,6 +161,12 @@ Criar estratégia de marketing digital para sua startup:
 - Qual é seu público-alvo?
 - Como vai ganhar dinheiro?
 
-Esta atividade foi pensada para despertar o espírito empreendedor nos alunos do 3º ano, trabalhando com conceitos reais do mercado de tecnologia e startups, mas de forma acessível e prática.
+## ✉️ Entrega
 
-Quer que eu detalhe melhor alguma parte ou adicione mais exemplos práticos?
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

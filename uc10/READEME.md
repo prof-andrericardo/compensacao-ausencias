@@ -1,5 +1,3 @@
-Vou criar uma proposta divertida e adequada à idade, usando JavaScript e focando em temas que interessam aos adolescentes.
-
 **PROJETO: CRIANDO SEU PRIMEIRO GAME/APP! 🎮**
 
 **PARTE 1 - TEORIA DO DESENVOLVIMENTO (40%)**
@@ -177,4 +175,12 @@ function checarPar() {
 - Organização
 - Documentação
 
-Quer que eu detalhe melhor alguma parte ou dê mais exemplos de códigos? Posso criar modelos mais específicos para cada tipo de jogo sugerido!
+## ✉️ Entrega
+
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.

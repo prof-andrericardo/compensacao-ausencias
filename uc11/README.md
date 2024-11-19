@@ -1,5 +1,3 @@
-Vou adaptar a proposta para usar as ferramentas disponíveis, criando um projeto envolvente e adequado para adolescentes, focando em design e prototipação antes da programação.
-
 **PROJETO: CRIANDO SEU PRÓPRIO APP! 📱**
 
 **PARTE 1 - PLANEJAMENTO E DESIGN (50%)**
@@ -175,6 +173,12 @@ Criar uma apresentação criativa com:
 - Organização
 - Apresentação
 
-Esta proposta foca no design e prototipação, áreas importantes do desenvolvimento desktop, adaptadas às ferramentas disponíveis. O tema e a abordagem são adequados para a faixa etária, permitindo criatividade e aprendizado prático.
+## ✉️ Entrega
 
-Quer que eu detalhe melhor alguma parte ou dê mais exemplos de design?
+A Atividade deve ser entregue aos cuidados de;
+
+- Professor: André Ricardo
+- Email: <andre.ricardo@colegiovictorino.com.br>
+
+---
+⚠️ **Observação**: Este material é destinado exclusivamente aos alunos do curso Técnico em Informática para compensação de ausências.
